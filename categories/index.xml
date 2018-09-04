@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sabyan Band</title>
-    <link>https://www.sabyanband.com/categories/</link>
+    <link>http://sabyanband.com/categories/</link>
     <description>Recent content in Categories on Sabyan Band</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.sabyanband.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sabyanband.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
