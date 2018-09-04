@@ -3,17 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sabyanband.com/categories/</loc>
+    <loc>http://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sabyanband.com/</loc>
+    <loc>http://example.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sabyanband.com/tags/</loc>
+    <loc>http://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
